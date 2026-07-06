@@ -1,5 +1,12 @@
 
 {
- "version": "1.2.0.1",
- "url": "https://github.com/Nactro-Development/PDC-System-Updater/releases/download/PDC_System_v1.2.0.1/PDC_System_v1.2.0.1_x64.exe"
+ "version": "1.2.0.4",
+ "url": "https://github.com/Nactro-Development/PDC-System-Updater/releases/download/PDC_System_v1.2.0.1/PDC_System_v1.2.0.1_x64.exe",
+  "changes": [
+    "Improved attendance synchronization.",
+    "Added automatic backup cleanup.",
+    "Improved update system.",
+    "Fixed employee attendance calculation.",
+    "Performance improvements."
+  ]
 }
